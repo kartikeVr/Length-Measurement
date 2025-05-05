@@ -53,13 +53,16 @@ Here's a brief overview of the main components in this project:
 
 ## 📸 Example Output
 
-![Example Output](path_to_example_image.png)
+https://github.com/user-attachments/assets/b70e1c1a-2e33-4df9-8b40-2a340275be4a
 
 ## ⚙️ Customization
 
 You can customize the following parameters:
 
 - **`minArea`**: Minimum area of contours to consider for measurement.
+
+
+
 - **`filter`**: Number of vertices in the contour to filter for specific shapes.
 - **`cThr`**: Thresholds for contour detection.
 - **`scale`**: Scale factor to adjust the measurement according to the actual size of objects.
